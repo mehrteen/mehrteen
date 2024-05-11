@@ -1,0 +1,1 @@
+<?php echo 'Your copy of theme has been activated by Iran Flatsome team (flatsomee.ir), enjoy! <br><br> <strong>Note :</strong> If you are using iran flatsome theme without buying directly from flatsomee.ir domain, your website will be malformed. So please buy the original theme from domain :<strong> flatsomee.ir</strong>';?>
