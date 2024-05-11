@@ -416,3 +416,25 @@
 
 )
 
+2024-05-11T10:25:29+00:00 ERROR Error getting data feed
+2024-05-11T10:25:29+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Connection timed out after 5009 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
